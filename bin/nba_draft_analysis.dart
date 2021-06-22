@@ -150,7 +150,7 @@ void main(List<String> arguments) {
   print(tabulate(bracketTable, [
     'Draft Position(s)',
     'Avg. Value (0-100)',
-    'Avg. WAR After First Contract'
+    'Avg. WAR Produced With First Team'
   ]));
 }
 
