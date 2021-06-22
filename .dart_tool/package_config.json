@@ -3,19 +3,19 @@
   "packages": [
     {
       "name": "csv",
-      "rootUri": "file:///home/akishore/.pub-cache/hosted/pub.dartlang.org/csv-5.0.0",
+      "rootUri": "file:///Users/aditya/.pub-cache/hosted/pub.dartlang.org/csv-5.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "pedantic",
-      "rootUri": "file:///home/akishore/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0",
+      "rootUri": "file:///Users/aditya/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "tabulate",
-      "rootUri": "file:///home/akishore/.pub-cache/hosted/pub.dartlang.org/tabulate-0.0.1",
+      "rootUri": "file:///Users/aditya/.pub-cache/hosted/pub.dartlang.org/tabulate-0.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
@@ -26,7 +26,7 @@
       "languageVersion": "2.9"
     }
   ],
-  "generated": "2021-04-13T05:12:03.628034Z",
+  "generated": "2021-06-22T03:20:23.656781Z",
   "generator": "pub",
-  "generatorVersion": "2.12.1"
+  "generatorVersion": "2.13.3"
 }
